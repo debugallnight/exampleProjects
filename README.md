@@ -1,1 +1,1 @@
-# exampleProjects
+# Providing many example projects
