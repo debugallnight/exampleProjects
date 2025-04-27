@@ -3,7 +3,8 @@
 ## Prerequisite
 This is IBM BAMOE 9 example project. 
 
-For more information on this, please refer to the followings:
+For more information on this, please refer to the followings:  
+
 https://www.ibm.com/support/pages/ibm-business-automation-manager-open-editions-92-download-document
 
 https://quay.io/organization/bamoe  
